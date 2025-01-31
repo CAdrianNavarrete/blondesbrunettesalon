@@ -54,7 +54,7 @@ const Footer = () => {
             <ul className="text-base font-semibold space-y-4">
               <li className="flex items-center space-x-3">
                 <FaPhone />
-                <a href="#">+91 123456789</a>
+                <a href="#">+51 123456789</a>
               </li>
               <li className="flex items-center space-x-3">
                 <LuMessageSquare />
