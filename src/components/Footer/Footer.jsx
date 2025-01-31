@@ -21,7 +21,7 @@ const Footer = () => {
               <p className="text-xl font-serif">BLONDES & BRUNETTES</p>
             </div>
             <p>Av. Mariscal Ramón Castilla 650, Miraflores 15048</p>
-            <p>@ 2024 BBS.</p>
+            <p>@ 2025 BBS.</p>
           </div>
           {/* Footer Link */}
           <div className="grid grid-cols-2 gap-3">
@@ -66,7 +66,7 @@ const Footer = () => {
 
         {/* bottom section */}
         <p className="text-center text-sm font-semibold  border-t-2 pt-5 mt-5">
-          &copy; 2024 BBS. Todos los Derechos Reservados
+          &copy; 2025 BBS. Todos los Derechos Reservados
         </p>
       </div>
     </motion.footer>
